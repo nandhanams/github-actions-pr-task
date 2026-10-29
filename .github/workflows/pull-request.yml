@@ -1,4 +1,4 @@
-```yaml
+
 name: My Pull Request Workflow
 
 on:
@@ -24,4 +24,3 @@ jobs:
 
       - name: Display Completion Message
         run: echo "Workflow completed successfully!"
-```
